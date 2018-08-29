@@ -6336,6 +6336,12 @@ header .navbar-brand img {
 footer img {
   max-width: 200px; }
 
+.home-slide .item-slide {
+  padding-top: 5rem;
+  padding-right: 10rem;
+  padding-bottom: 5rem;
+  padding-left: 10rem; }
+
 .home-news .item a {
   text-decoration: none; }
   .home-news .item a figure .box-img {

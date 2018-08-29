@@ -33,4 +33,18 @@ $(function () {
 });
 // Main
 console.log('FullStack Vietnam!');
+$('.home-slide .owl-carousel').owlCarousel({
+    items: 1,
+    loop: true,
+    nav: true,
+    dots: false,
+    responsive: {
+        0: {
+            items: 1
+        },
+        600: {
+            items: 1
+        }
+    }
+});
 //# sourceMappingURL=main.js.map
